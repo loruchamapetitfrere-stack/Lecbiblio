@@ -1,0 +1,8 @@
+{
+  "name": "Plan de Lecture Biblique & Journal",
+  "description": "Un compagnon de lecture biblique quotidien proposant des plans de lecture (30, 90, ou personnalisés par IA), des réflexions, un journal de prière, et un suivi de progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
